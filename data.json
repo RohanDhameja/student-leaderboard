@@ -1,0 +1,3303 @@
+[
+  {
+    "name": "Student 1",
+    "records": [
+      {
+        "timeIn": "01/17/2025 16:39",
+        "timeOut": "01/17/2025 22:33",
+        "projectHours": 5.9,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/24/2025 09:48",
+        "timeOut": "01/24/2025 17:12",
+        "projectHours": 7.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/30/2025 00:15",
+        "timeOut": "03/30/2025 09:09",
+        "projectHours": 8.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/28/2025 18:01",
+        "timeOut": "01/29/2025 04:55",
+        "projectHours": 10.9,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/15/2025 17:06",
+        "timeOut": "01/15/2025 22:24",
+        "projectHours": 5.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/08/2025 08:45",
+        "timeOut": "03/08/2025 13:57",
+        "projectHours": 5.2,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": true,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/08/2025 21:54",
+        "timeOut": "02/09/2025 07:36",
+        "projectHours": 9.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/31/2025 09:03",
+        "timeOut": "01/31/2025 18:03",
+        "projectHours": 9.0,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/20/2025 14:22",
+        "timeOut": "03/21/2025 00:28",
+        "projectHours": 10.1,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/13/2025 23:24",
+        "timeOut": "01/14/2025 06:00",
+        "projectHours": 6.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/01/2025 06:21",
+        "timeOut": "02/01/2025 13:45",
+        "projectHours": 7.4,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/09/2025 06:18",
+        "timeOut": "01/09/2025 15:48",
+        "projectHours": 9.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/03/2025 23:06",
+        "timeOut": "01/04/2025 02:48",
+        "projectHours": 3.7,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/15/2025 10:55",
+        "timeOut": "01/15/2025 19:19",
+        "projectHours": 8.4,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/10/2025 22:16",
+        "timeOut": "02/11/2025 07:34",
+        "projectHours": 9.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/21/2025 16:11",
+        "timeOut": "03/21/2025 20:41",
+        "projectHours": 4.5,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/15/2025 16:03",
+        "timeOut": "02/15/2025 22:21",
+        "projectHours": 6.3,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/27/2025 06:34",
+        "timeOut": "02/27/2025 16:46",
+        "projectHours": 10.2,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/19/2025 19:51",
+        "timeOut": "01/20/2025 05:27",
+        "projectHours": 9.6,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      }
+    ]
+  },
+  {
+    "name": "Student 2",
+    "records": [
+      {
+        "timeIn": "01/25/2025 21:19",
+        "timeOut": "01/26/2025 01:37",
+        "projectHours": 4.3,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/21/2025 09:34",
+        "timeOut": "02/21/2025 16:22",
+        "projectHours": 6.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/23/2025 03:08",
+        "timeOut": "02/23/2025 07:20",
+        "projectHours": 4.2,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/16/2025 15:43",
+        "timeOut": "03/17/2025 00:25",
+        "projectHours": 8.7,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/06/2025 00:20",
+        "timeOut": "03/06/2025 04:02",
+        "projectHours": 3.7,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/13/2025 08:38",
+        "timeOut": "03/13/2025 15:38",
+        "projectHours": 7.0,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/09/2025 01:26",
+        "timeOut": "02/09/2025 07:20",
+        "projectHours": 5.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/21/2025 15:17",
+        "timeOut": "03/22/2025 00:11",
+        "projectHours": 8.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/28/2025 12:47",
+        "timeOut": "01/28/2025 22:53",
+        "projectHours": 10.1,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/22/2025 14:56",
+        "timeOut": "01/22/2025 19:44",
+        "projectHours": 4.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/11/2025 07:15",
+        "timeOut": "03/11/2025 11:57",
+        "projectHours": 4.7,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/08/2025 19:42",
+        "timeOut": "03/09/2025 01:48",
+        "projectHours": 6.1,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Student 3",
+    "records": [
+      {
+        "timeIn": "03/25/2025 08:24",
+        "timeOut": "03/25/2025 16:18",
+        "projectHours": 7.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/17/2025 16:03",
+        "timeOut": "03/17/2025 21:09",
+        "projectHours": 5.1,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/29/2025 13:50",
+        "timeOut": "01/29/2025 23:56",
+        "projectHours": 10.1,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/18/2025 05:00",
+        "timeOut": "03/18/2025 08:36",
+        "projectHours": 3.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/13/2025 01:29",
+        "timeOut": "03/13/2025 07:41",
+        "projectHours": 6.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/23/2025 11:10",
+        "timeOut": "01/23/2025 18:40",
+        "projectHours": 7.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/26/2025 16:37",
+        "timeOut": "01/26/2025 21:49",
+        "projectHours": 5.2,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/02/2025 03:17",
+        "timeOut": "03/02/2025 07:41",
+        "projectHours": 4.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/02/2025 01:33",
+        "timeOut": "02/02/2025 09:33",
+        "projectHours": 8.0,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/12/2025 07:33",
+        "timeOut": "01/12/2025 17:15",
+        "projectHours": 9.7,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/17/2025 12:22",
+        "timeOut": "03/17/2025 17:58",
+        "projectHours": 5.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/30/2025 13:04",
+        "timeOut": "01/30/2025 22:58",
+        "projectHours": 9.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/12/2025 17:43",
+        "timeOut": "01/12/2025 23:37",
+        "projectHours": 5.9,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/08/2025 09:28",
+        "timeOut": "01/08/2025 18:28",
+        "projectHours": 9.0,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/25/2025 01:02",
+        "timeOut": "02/25/2025 06:38",
+        "projectHours": 5.6,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/11/2025 09:53",
+        "timeOut": "01/11/2025 14:17",
+        "projectHours": 4.4,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/15/2025 13:16",
+        "timeOut": "03/15/2025 18:16",
+        "projectHours": 5.0,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/26/2025 02:58",
+        "timeOut": "02/26/2025 13:10",
+        "projectHours": 10.2,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/09/2025 21:12",
+        "timeOut": "01/10/2025 05:48",
+        "projectHours": 8.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      }
+    ]
+  },
+  {
+    "name": "Student 4",
+    "records": [
+      {
+        "timeIn": "02/02/2025 15:04",
+        "timeOut": "02/03/2025 00:52",
+        "projectHours": 9.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/02/2025 02:30",
+        "timeOut": "03/02/2025 12:36",
+        "projectHours": 10.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/24/2025 15:58",
+        "timeOut": "03/25/2025 00:10",
+        "projectHours": 8.2,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/09/2025 08:53",
+        "timeOut": "02/09/2025 15:05",
+        "projectHours": 6.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/05/2025 13:45",
+        "timeOut": "03/05/2025 21:21",
+        "projectHours": 7.6,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/17/2025 08:33",
+        "timeOut": "03/17/2025 13:33",
+        "projectHours": 5.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/13/2025 03:50",
+        "timeOut": "02/13/2025 14:14",
+        "projectHours": 10.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/20/2025 00:38",
+        "timeOut": "02/20/2025 10:32",
+        "projectHours": 9.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": true,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/02/2025 18:37",
+        "timeOut": "02/03/2025 02:49",
+        "projectHours": 8.2,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/05/2025 12:59",
+        "timeOut": "01/05/2025 20:05",
+        "projectHours": 7.1,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/10/2025 06:20",
+        "timeOut": "03/10/2025 12:56",
+        "projectHours": 6.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/10/2025 10:34",
+        "timeOut": "02/10/2025 18:40",
+        "projectHours": 8.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/23/2025 09:47",
+        "timeOut": "03/23/2025 15:41",
+        "projectHours": 5.9,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/26/2025 06:59",
+        "timeOut": "01/26/2025 12:47",
+        "projectHours": 5.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/29/2025 07:16",
+        "timeOut": "03/29/2025 18:04",
+        "projectHours": 10.8,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/25/2025 08:51",
+        "timeOut": "03/25/2025 18:27",
+        "projectHours": 9.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/13/2025 20:25",
+        "timeOut": "03/13/2025 23:55",
+        "projectHours": 3.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/24/2025 01:35",
+        "timeOut": "01/24/2025 08:47",
+        "projectHours": 7.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      }
+    ]
+  },
+  {
+    "name": "Student 5",
+    "records": [
+      {
+        "timeIn": "02/22/2025 00:28",
+        "timeOut": "02/22/2025 08:58",
+        "projectHours": 8.5,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/16/2025 03:06",
+        "timeOut": "03/16/2025 11:48",
+        "projectHours": 8.7,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/22/2025 22:32",
+        "timeOut": "01/23/2025 08:14",
+        "projectHours": 9.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/04/2025 07:23",
+        "timeOut": "02/04/2025 15:23",
+        "projectHours": 8.0,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/18/2025 05:15",
+        "timeOut": "03/18/2025 08:51",
+        "projectHours": 3.6,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/26/2025 16:42",
+        "timeOut": "03/26/2025 23:54",
+        "projectHours": 7.2,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/02/2025 08:59",
+        "timeOut": "02/02/2025 18:35",
+        "projectHours": 9.6,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/14/2025 07:33",
+        "timeOut": "02/14/2025 15:45",
+        "projectHours": 8.2,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/28/2025 07:24",
+        "timeOut": "03/28/2025 18:06",
+        "projectHours": 10.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/29/2025 01:36",
+        "timeOut": "01/29/2025 05:30",
+        "projectHours": 3.9,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/30/2025 00:55",
+        "timeOut": "01/30/2025 07:55",
+        "projectHours": 7.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      }
+    ]
+  },
+  {
+    "name": "Student 6",
+    "records": [
+      {
+        "timeIn": "01/28/2025 18:34",
+        "timeOut": "01/29/2025 00:28",
+        "projectHours": 5.9,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/25/2025 11:13",
+        "timeOut": "01/25/2025 20:07",
+        "projectHours": 8.9,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/22/2025 06:51",
+        "timeOut": "03/22/2025 16:45",
+        "projectHours": 9.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/10/2025 03:29",
+        "timeOut": "03/10/2025 08:47",
+        "projectHours": 5.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/04/2025 15:38",
+        "timeOut": "01/04/2025 20:38",
+        "projectHours": 5.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/14/2025 17:45",
+        "timeOut": "01/15/2025 01:03",
+        "projectHours": 7.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/23/2025 06:09",
+        "timeOut": "03/23/2025 15:03",
+        "projectHours": 8.9,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/25/2025 17:39",
+        "timeOut": "02/26/2025 01:21",
+        "projectHours": 7.7,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/31/2025 16:50",
+        "timeOut": "01/31/2025 23:14",
+        "projectHours": 6.4,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/04/2025 10:03",
+        "timeOut": "02/04/2025 14:39",
+        "projectHours": 4.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/10/2025 09:33",
+        "timeOut": "01/10/2025 15:03",
+        "projectHours": 5.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "04/01/2025 10:48",
+        "timeOut": "04/01/2025 17:54",
+        "projectHours": 7.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/09/2025 01:02",
+        "timeOut": "03/09/2025 08:50",
+        "projectHours": 7.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/01/2025 18:18",
+        "timeOut": "02/01/2025 23:24",
+        "projectHours": 5.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/05/2025 20:53",
+        "timeOut": "02/06/2025 00:35",
+        "projectHours": 3.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/24/2025 23:15",
+        "timeOut": "02/25/2025 09:09",
+        "projectHours": 9.9,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/08/2025 07:29",
+        "timeOut": "02/08/2025 16:47",
+        "projectHours": 9.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/10/2025 02:57",
+        "timeOut": "02/10/2025 08:27",
+        "projectHours": 5.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/07/2025 01:19",
+        "timeOut": "01/07/2025 05:49",
+        "projectHours": 4.5,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/23/2025 13:49",
+        "timeOut": "03/24/2025 00:13",
+        "projectHours": 10.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Student 7",
+    "records": [
+      {
+        "timeIn": "01/10/2025 19:41",
+        "timeOut": "01/11/2025 05:47",
+        "projectHours": 10.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/07/2025 12:16",
+        "timeOut": "01/07/2025 20:34",
+        "projectHours": 8.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/26/2025 04:01",
+        "timeOut": "03/26/2025 11:25",
+        "projectHours": 7.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/18/2025 03:17",
+        "timeOut": "02/18/2025 12:29",
+        "projectHours": 9.2,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/15/2025 09:31",
+        "timeOut": "02/15/2025 15:19",
+        "projectHours": 5.8,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/03/2025 09:16",
+        "timeOut": "03/03/2025 17:40",
+        "projectHours": 8.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/13/2025 04:49",
+        "timeOut": "01/13/2025 13:13",
+        "projectHours": 8.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/16/2025 15:27",
+        "timeOut": "02/17/2025 00:03",
+        "projectHours": 8.6,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/09/2025 01:34",
+        "timeOut": "01/09/2025 05:58",
+        "projectHours": 4.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/10/2025 22:59",
+        "timeOut": "02/11/2025 07:23",
+        "projectHours": 8.4,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/28/2025 16:40",
+        "timeOut": "01/29/2025 02:52",
+        "projectHours": 10.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/20/2025 20:16",
+        "timeOut": "01/21/2025 03:34",
+        "projectHours": 7.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/23/2025 09:31",
+        "timeOut": "01/23/2025 15:37",
+        "projectHours": 6.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      }
+    ]
+  },
+  {
+    "name": "Student 8",
+    "records": [
+      {
+        "timeIn": "03/05/2025 08:50",
+        "timeOut": "03/05/2025 12:20",
+        "projectHours": 3.5,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/25/2025 18:20",
+        "timeOut": "03/26/2025 02:44",
+        "projectHours": 8.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/21/2025 17:35",
+        "timeOut": "03/21/2025 23:47",
+        "projectHours": 6.2,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/27/2025 17:10",
+        "timeOut": "01/28/2025 02:22",
+        "projectHours": 9.2,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/05/2025 01:52",
+        "timeOut": "01/05/2025 06:40",
+        "projectHours": 4.8,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/09/2025 03:04",
+        "timeOut": "03/09/2025 10:28",
+        "projectHours": 7.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/18/2025 15:17",
+        "timeOut": "03/19/2025 00:47",
+        "projectHours": 9.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/19/2025 20:10",
+        "timeOut": "02/20/2025 05:52",
+        "projectHours": 9.7,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/23/2025 06:16",
+        "timeOut": "02/23/2025 12:46",
+        "projectHours": 6.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/02/2025 01:23",
+        "timeOut": "03/02/2025 06:35",
+        "projectHours": 5.2,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/22/2025 06:37",
+        "timeOut": "01/22/2025 15:43",
+        "projectHours": 9.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/25/2025 04:44",
+        "timeOut": "02/25/2025 13:38",
+        "projectHours": 8.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/26/2025 23:22",
+        "timeOut": "01/27/2025 06:40",
+        "projectHours": 7.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/04/2025 00:29",
+        "timeOut": "01/04/2025 05:05",
+        "projectHours": 4.6,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/12/2025 05:25",
+        "timeOut": "02/12/2025 09:37",
+        "projectHours": 4.2,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/12/2025 04:13",
+        "timeOut": "03/12/2025 12:19",
+        "projectHours": 8.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/15/2025 01:44",
+        "timeOut": "03/15/2025 11:32",
+        "projectHours": 9.8,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/02/2025 09:16",
+        "timeOut": "03/02/2025 18:22",
+        "projectHours": 9.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/09/2025 17:03",
+        "timeOut": "02/10/2025 03:21",
+        "projectHours": 10.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      }
+    ]
+  },
+  {
+    "name": "Student 9",
+    "records": [
+      {
+        "timeIn": "02/18/2025 08:02",
+        "timeOut": "02/18/2025 12:26",
+        "projectHours": 4.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/14/2025 01:46",
+        "timeOut": "03/14/2025 11:10",
+        "projectHours": 9.4,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/25/2025 03:46",
+        "timeOut": "03/25/2025 14:22",
+        "projectHours": 10.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/28/2025 16:22",
+        "timeOut": "03/28/2025 23:34",
+        "projectHours": 7.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/24/2025 04:22",
+        "timeOut": "02/24/2025 09:52",
+        "projectHours": 5.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/27/2025 04:42",
+        "timeOut": "02/27/2025 14:12",
+        "projectHours": 9.5,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/24/2025 18:44",
+        "timeOut": "01/25/2025 00:50",
+        "projectHours": 6.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/03/2025 13:41",
+        "timeOut": "02/03/2025 19:11",
+        "projectHours": 5.5,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/30/2025 02:46",
+        "timeOut": "01/30/2025 13:16",
+        "projectHours": 10.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/15/2025 06:52",
+        "timeOut": "03/15/2025 13:58",
+        "projectHours": 7.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/13/2025 07:39",
+        "timeOut": "03/13/2025 12:51",
+        "projectHours": 5.2,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/29/2025 05:40",
+        "timeOut": "01/29/2025 13:52",
+        "projectHours": 8.2,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/25/2025 18:46",
+        "timeOut": "02/25/2025 22:40",
+        "projectHours": 3.9,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/24/2025 11:48",
+        "timeOut": "02/24/2025 15:42",
+        "projectHours": 3.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/27/2025 03:51",
+        "timeOut": "03/27/2025 10:09",
+        "projectHours": 6.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/22/2025 11:58",
+        "timeOut": "03/22/2025 19:10",
+        "projectHours": 7.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/11/2025 19:54",
+        "timeOut": "01/12/2025 02:24",
+        "projectHours": 6.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      }
+    ]
+  },
+  {
+    "name": "Student 10",
+    "records": [
+      {
+        "timeIn": "01/10/2025 22:38",
+        "timeOut": "01/11/2025 04:14",
+        "projectHours": 5.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/08/2025 17:23",
+        "timeOut": "03/09/2025 01:41",
+        "projectHours": 8.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/01/2025 01:11",
+        "timeOut": "02/01/2025 09:29",
+        "projectHours": 8.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/04/2025 05:32",
+        "timeOut": "01/04/2025 13:02",
+        "projectHours": 7.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/22/2025 10:18",
+        "timeOut": "01/22/2025 18:30",
+        "projectHours": 8.2,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/03/2025 10:28",
+        "timeOut": "03/03/2025 15:40",
+        "projectHours": 5.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/09/2025 18:46",
+        "timeOut": "03/10/2025 02:34",
+        "projectHours": 7.8,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/22/2025 21:34",
+        "timeOut": "01/23/2025 07:10",
+        "projectHours": 9.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/22/2025 01:18",
+        "timeOut": "02/22/2025 05:54",
+        "projectHours": 4.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/29/2025 07:23",
+        "timeOut": "01/29/2025 14:59",
+        "projectHours": 7.6,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": true,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Student 11",
+    "records": [
+      {
+        "timeIn": "03/30/2025 12:31",
+        "timeOut": "03/30/2025 22:19",
+        "projectHours": 9.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/28/2025 10:47",
+        "timeOut": "03/28/2025 17:05",
+        "projectHours": 6.3,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/02/2025 18:39",
+        "timeOut": "02/03/2025 02:21",
+        "projectHours": 7.7,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/06/2025 13:21",
+        "timeOut": "03/06/2025 20:33",
+        "projectHours": 7.2,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/21/2025 17:45",
+        "timeOut": "02/22/2025 00:09",
+        "projectHours": 6.4,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/06/2025 01:06",
+        "timeOut": "03/06/2025 05:36",
+        "projectHours": 4.5,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/15/2025 23:51",
+        "timeOut": "03/16/2025 06:27",
+        "projectHours": 6.6,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/21/2025 02:01",
+        "timeOut": "03/21/2025 08:01",
+        "projectHours": 6.0,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/30/2025 16:50",
+        "timeOut": "03/30/2025 23:20",
+        "projectHours": 6.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/15/2025 17:20",
+        "timeOut": "03/15/2025 21:14",
+        "projectHours": 3.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/12/2025 19:34",
+        "timeOut": "02/13/2025 01:52",
+        "projectHours": 6.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/28/2025 07:07",
+        "timeOut": "03/28/2025 17:37",
+        "projectHours": 10.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/16/2025 06:09",
+        "timeOut": "03/16/2025 10:45",
+        "projectHours": 4.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/31/2025 14:11",
+        "timeOut": "02/01/2025 00:29",
+        "projectHours": 10.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/06/2025 19:11",
+        "timeOut": "03/07/2025 00:11",
+        "projectHours": 5.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/14/2025 13:05",
+        "timeOut": "01/14/2025 23:59",
+        "projectHours": 10.9,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/16/2025 15:23",
+        "timeOut": "02/16/2025 21:47",
+        "projectHours": 6.4,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/26/2025 20:12",
+        "timeOut": "02/27/2025 01:30",
+        "projectHours": 5.3,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/15/2025 17:16",
+        "timeOut": "01/16/2025 03:22",
+        "projectHours": 10.1,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Student 12",
+    "records": [
+      {
+        "timeIn": "02/25/2025 18:41",
+        "timeOut": "02/25/2025 23:23",
+        "projectHours": 4.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/19/2025 03:08",
+        "timeOut": "03/19/2025 11:14",
+        "projectHours": 8.1,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/25/2025 04:42",
+        "timeOut": "02/25/2025 08:30",
+        "projectHours": 3.8,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/05/2025 14:29",
+        "timeOut": "02/05/2025 19:11",
+        "projectHours": 4.7,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/02/2025 19:15",
+        "timeOut": "02/03/2025 01:45",
+        "projectHours": 6.5,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/06/2025 20:47",
+        "timeOut": "01/07/2025 07:41",
+        "projectHours": 10.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/23/2025 13:18",
+        "timeOut": "03/23/2025 17:00",
+        "projectHours": 3.7,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/07/2025 05:39",
+        "timeOut": "02/07/2025 13:39",
+        "projectHours": 8.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/21/2025 00:41",
+        "timeOut": "01/21/2025 05:47",
+        "projectHours": 5.1,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/02/2025 15:43",
+        "timeOut": "02/02/2025 21:49",
+        "projectHours": 6.1,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/15/2025 04:59",
+        "timeOut": "02/15/2025 08:53",
+        "projectHours": 3.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/05/2025 01:52",
+        "timeOut": "01/05/2025 06:52",
+        "projectHours": 5.0,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/20/2025 10:30",
+        "timeOut": "01/20/2025 15:24",
+        "projectHours": 4.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/20/2025 00:19",
+        "timeOut": "03/20/2025 09:01",
+        "projectHours": 8.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/04/2025 15:48",
+        "timeOut": "02/05/2025 01:00",
+        "projectHours": 9.2,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/10/2025 21:35",
+        "timeOut": "03/11/2025 04:11",
+        "projectHours": 6.6,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/25/2025 21:04",
+        "timeOut": "03/26/2025 02:22",
+        "projectHours": 5.3,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      }
+    ]
+  },
+  {
+    "name": "Student 13",
+    "records": [
+      {
+        "timeIn": "03/19/2025 07:39",
+        "timeOut": "03/19/2025 18:39",
+        "projectHours": 11.0,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/15/2025 10:25",
+        "timeOut": "03/15/2025 20:43",
+        "projectHours": 10.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/10/2025 22:21",
+        "timeOut": "03/11/2025 08:39",
+        "projectHours": 10.3,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/13/2025 08:18",
+        "timeOut": "01/13/2025 19:06",
+        "projectHours": 10.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/04/2025 23:29",
+        "timeOut": "03/05/2025 05:29",
+        "projectHours": 6.0,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "04/01/2025 23:01",
+        "timeOut": "04/02/2025 07:25",
+        "projectHours": 8.4,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/13/2025 20:47",
+        "timeOut": "02/14/2025 02:11",
+        "projectHours": 5.4,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/09/2025 18:50",
+        "timeOut": "03/10/2025 03:38",
+        "projectHours": 8.8,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/09/2025 14:18",
+        "timeOut": "03/09/2025 20:00",
+        "projectHours": 5.7,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/20/2025 12:03",
+        "timeOut": "01/20/2025 21:51",
+        "projectHours": 9.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/26/2025 20:17",
+        "timeOut": "02/27/2025 07:11",
+        "projectHours": 10.9,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/25/2025 20:29",
+        "timeOut": "03/26/2025 05:47",
+        "projectHours": 9.3,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/05/2025 10:46",
+        "timeOut": "02/05/2025 17:46",
+        "projectHours": 7.0,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      }
+    ]
+  },
+  {
+    "name": "Student 14",
+    "records": [
+      {
+        "timeIn": "03/22/2025 21:13",
+        "timeOut": "03/23/2025 04:37",
+        "projectHours": 7.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/28/2025 11:56",
+        "timeOut": "03/28/2025 17:02",
+        "projectHours": 5.1,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/17/2025 19:06",
+        "timeOut": "03/18/2025 02:36",
+        "projectHours": 7.5,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/21/2025 23:06",
+        "timeOut": "01/22/2025 05:24",
+        "projectHours": 6.3,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/27/2025 13:59",
+        "timeOut": "02/27/2025 21:23",
+        "projectHours": 7.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/01/2025 23:48",
+        "timeOut": "03/02/2025 10:36",
+        "projectHours": 10.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/11/2025 11:47",
+        "timeOut": "01/11/2025 21:53",
+        "projectHours": 10.1,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/18/2025 19:19",
+        "timeOut": "03/19/2025 00:43",
+        "projectHours": 5.4,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/26/2025 16:24",
+        "timeOut": "02/27/2025 00:30",
+        "projectHours": 8.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/30/2025 12:11",
+        "timeOut": "03/30/2025 22:05",
+        "projectHours": 9.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Student 15",
+    "records": [
+      {
+        "timeIn": "02/18/2025 15:36",
+        "timeOut": "02/18/2025 22:18",
+        "projectHours": 6.7,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/29/2025 20:26",
+        "timeOut": "01/30/2025 02:44",
+        "projectHours": 6.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/18/2025 00:54",
+        "timeOut": "02/18/2025 10:06",
+        "projectHours": 9.2,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/20/2025 05:19",
+        "timeOut": "02/20/2025 16:19",
+        "projectHours": 11.0,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/27/2025 11:05",
+        "timeOut": "02/27/2025 20:59",
+        "projectHours": 9.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/24/2025 07:30",
+        "timeOut": "02/24/2025 14:36",
+        "projectHours": 7.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/07/2025 19:47",
+        "timeOut": "03/08/2025 00:05",
+        "projectHours": 4.3,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/08/2025 08:14",
+        "timeOut": "03/08/2025 18:08",
+        "projectHours": 9.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/21/2025 19:46",
+        "timeOut": "02/22/2025 05:34",
+        "projectHours": 9.8,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/21/2025 04:28",
+        "timeOut": "03/21/2025 09:04",
+        "projectHours": 4.6,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/19/2025 06:44",
+        "timeOut": "02/19/2025 13:08",
+        "projectHours": 6.4,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/17/2025 13:23",
+        "timeOut": "03/17/2025 18:59",
+        "projectHours": 5.6,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/02/2025 08:16",
+        "timeOut": "01/02/2025 17:22",
+        "projectHours": 9.1,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/05/2025 11:06",
+        "timeOut": "02/05/2025 15:00",
+        "projectHours": 3.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/31/2025 01:06",
+        "timeOut": "01/31/2025 05:00",
+        "projectHours": 3.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      }
+    ]
+  },
+  {
+    "name": "Student 16",
+    "records": [
+      {
+        "timeIn": "01/16/2025 02:30",
+        "timeOut": "01/16/2025 06:06",
+        "projectHours": 3.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/10/2025 14:12",
+        "timeOut": "01/10/2025 19:48",
+        "projectHours": 5.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/16/2025 04:51",
+        "timeOut": "03/16/2025 10:39",
+        "projectHours": 5.8,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/22/2025 23:32",
+        "timeOut": "01/23/2025 07:38",
+        "projectHours": 8.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/16/2025 06:36",
+        "timeOut": "03/16/2025 12:54",
+        "projectHours": 6.3,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/28/2025 13:47",
+        "timeOut": "01/28/2025 22:35",
+        "projectHours": 8.8,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/13/2025 07:23",
+        "timeOut": "02/13/2025 17:05",
+        "projectHours": 9.7,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": true,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/15/2025 03:04",
+        "timeOut": "03/15/2025 09:34",
+        "projectHours": 6.5,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/18/2025 16:40",
+        "timeOut": "01/18/2025 23:34",
+        "projectHours": 6.9,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/20/2025 21:13",
+        "timeOut": "01/21/2025 07:13",
+        "projectHours": 10.0,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/31/2025 19:58",
+        "timeOut": "04/01/2025 00:28",
+        "projectHours": 4.5,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/25/2025 11:40",
+        "timeOut": "03/25/2025 21:46",
+        "projectHours": 10.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/24/2025 19:59",
+        "timeOut": "02/25/2025 02:05",
+        "projectHours": 6.1,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/31/2025 00:15",
+        "timeOut": "01/31/2025 09:09",
+        "projectHours": 8.9,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/15/2025 01:35",
+        "timeOut": "01/15/2025 08:05",
+        "projectHours": 6.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/25/2025 11:14",
+        "timeOut": "01/25/2025 20:26",
+        "projectHours": 9.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/09/2025 03:00",
+        "timeOut": "02/09/2025 08:36",
+        "projectHours": 5.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/06/2025 22:19",
+        "timeOut": "01/07/2025 07:43",
+        "projectHours": 9.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/26/2025 13:28",
+        "timeOut": "01/26/2025 20:46",
+        "projectHours": 7.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/17/2025 20:14",
+        "timeOut": "03/18/2025 00:50",
+        "projectHours": 4.6,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Student 17",
+    "records": [
+      {
+        "timeIn": "01/21/2025 19:15",
+        "timeOut": "01/22/2025 01:45",
+        "projectHours": 6.5,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/28/2025 04:18",
+        "timeOut": "01/28/2025 14:00",
+        "projectHours": 9.7,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/07/2025 16:35",
+        "timeOut": "01/08/2025 02:41",
+        "projectHours": 10.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/25/2025 13:35",
+        "timeOut": "01/25/2025 21:29",
+        "projectHours": 7.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/15/2025 09:04",
+        "timeOut": "03/15/2025 18:28",
+        "projectHours": 9.4,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/04/2025 16:02",
+        "timeOut": "02/04/2025 22:50",
+        "projectHours": 6.8,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/28/2025 09:58",
+        "timeOut": "02/28/2025 14:34",
+        "projectHours": 4.6,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/10/2025 14:40",
+        "timeOut": "03/10/2025 18:46",
+        "projectHours": 4.1,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/24/2025 10:55",
+        "timeOut": "03/24/2025 19:49",
+        "projectHours": 8.9,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/10/2025 09:50",
+        "timeOut": "02/10/2025 16:38",
+        "projectHours": 6.8,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/06/2025 17:51",
+        "timeOut": "01/06/2025 23:33",
+        "projectHours": 5.7,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/22/2025 21:42",
+        "timeOut": "02/23/2025 06:12",
+        "projectHours": 8.5,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/29/2025 16:34",
+        "timeOut": "03/29/2025 23:58",
+        "projectHours": 7.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/31/2025 23:18",
+        "timeOut": "04/01/2025 06:36",
+        "projectHours": 7.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/28/2025 13:12",
+        "timeOut": "02/28/2025 20:54",
+        "projectHours": 7.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      }
+    ]
+  },
+  {
+    "name": "Student 18",
+    "records": [
+      {
+        "timeIn": "03/06/2025 00:18",
+        "timeOut": "03/06/2025 07:06",
+        "projectHours": 6.8,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/14/2025 07:11",
+        "timeOut": "03/14/2025 11:35",
+        "projectHours": 4.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/02/2025 19:16",
+        "timeOut": "02/03/2025 00:28",
+        "projectHours": 5.2,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/07/2025 16:00",
+        "timeOut": "01/08/2025 00:30",
+        "projectHours": 8.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": true,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/08/2025 16:19",
+        "timeOut": "01/09/2025 01:25",
+        "projectHours": 9.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/19/2025 01:59",
+        "timeOut": "03/19/2025 09:11",
+        "projectHours": 7.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/27/2025 12:25",
+        "timeOut": "02/27/2025 18:01",
+        "projectHours": 5.6,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/27/2025 06:52",
+        "timeOut": "03/27/2025 17:46",
+        "projectHours": 10.9,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/05/2025 13:20",
+        "timeOut": "01/05/2025 19:20",
+        "projectHours": 6.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/01/2025 23:14",
+        "timeOut": "03/02/2025 08:14",
+        "projectHours": 9.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/06/2025 21:27",
+        "timeOut": "03/07/2025 06:09",
+        "projectHours": 8.7,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/20/2025 16:34",
+        "timeOut": "03/20/2025 21:10",
+        "projectHours": 4.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/11/2025 14:16",
+        "timeOut": "03/11/2025 21:34",
+        "projectHours": 7.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/31/2025 06:35",
+        "timeOut": "01/31/2025 16:11",
+        "projectHours": 9.6,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/20/2025 07:21",
+        "timeOut": "01/20/2025 14:15",
+        "projectHours": 6.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/04/2025 10:27",
+        "timeOut": "02/04/2025 19:27",
+        "projectHours": 9.0,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/07/2025 16:51",
+        "timeOut": "02/08/2025 02:45",
+        "projectHours": 9.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/30/2025 06:46",
+        "timeOut": "03/30/2025 12:22",
+        "projectHours": 5.6,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/05/2025 07:32",
+        "timeOut": "01/05/2025 14:44",
+        "projectHours": 7.2,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/18/2025 22:01",
+        "timeOut": "02/19/2025 03:37",
+        "projectHours": 5.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      }
+    ]
+  },
+  {
+    "name": "Student 19",
+    "records": [
+      {
+        "timeIn": "01/28/2025 09:56",
+        "timeOut": "01/28/2025 14:26",
+        "projectHours": 4.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/21/2025 16:39",
+        "timeOut": "01/22/2025 01:03",
+        "projectHours": 8.4,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/01/2025 17:02",
+        "timeOut": "01/02/2025 00:02",
+        "projectHours": 7.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/17/2025 13:06",
+        "timeOut": "03/17/2025 23:36",
+        "projectHours": 10.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/25/2025 15:44",
+        "timeOut": "02/25/2025 20:38",
+        "projectHours": 4.9,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": true,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/15/2025 17:11",
+        "timeOut": "03/16/2025 03:47",
+        "projectHours": 10.6,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/06/2025 12:46",
+        "timeOut": "02/06/2025 17:16",
+        "projectHours": 4.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/04/2025 03:29",
+        "timeOut": "02/04/2025 14:11",
+        "projectHours": 10.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/29/2025 12:58",
+        "timeOut": "03/29/2025 18:34",
+        "projectHours": 5.6,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/12/2025 04:59",
+        "timeOut": "02/12/2025 15:53",
+        "projectHours": 10.9,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/07/2025 05:19",
+        "timeOut": "02/07/2025 13:13",
+        "projectHours": 7.9,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/03/2025 04:26",
+        "timeOut": "03/03/2025 10:02",
+        "projectHours": 5.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/26/2025 15:28",
+        "timeOut": "01/27/2025 01:16",
+        "projectHours": 9.8,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": true,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/12/2025 14:55",
+        "timeOut": "01/12/2025 19:19",
+        "projectHours": 4.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": true,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/15/2025 05:47",
+        "timeOut": "01/15/2025 13:17",
+        "projectHours": 7.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Student 20",
+    "records": [
+      {
+        "timeIn": "03/09/2025 04:43",
+        "timeOut": "03/09/2025 10:25",
+        "projectHours": 5.7,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/08/2025 05:04",
+        "timeOut": "02/08/2025 12:22",
+        "projectHours": 7.3,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/09/2025 11:22",
+        "timeOut": "02/09/2025 20:46",
+        "projectHours": 9.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/05/2025 20:02",
+        "timeOut": "03/06/2025 02:02",
+        "projectHours": 6.0,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/30/2025 03:07",
+        "timeOut": "03/30/2025 10:25",
+        "projectHours": 7.3,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/03/2025 11:18",
+        "timeOut": "03/03/2025 21:54",
+        "projectHours": 10.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/14/2025 15:31",
+        "timeOut": "02/15/2025 02:01",
+        "projectHours": 10.5,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/16/2025 05:24",
+        "timeOut": "03/16/2025 12:12",
+        "projectHours": 6.8,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/17/2025 15:19",
+        "timeOut": "01/18/2025 00:25",
+        "projectHours": 9.1,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/02/2025 03:12",
+        "timeOut": "02/02/2025 10:12",
+        "projectHours": 7.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      }
+    ]
+  },
+  {
+    "name": "Student 21",
+    "records": [
+      {
+        "timeIn": "02/01/2025 09:38",
+        "timeOut": "02/01/2025 18:08",
+        "projectHours": 8.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/02/2025 14:37",
+        "timeOut": "01/02/2025 18:37",
+        "projectHours": 4.0,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/30/2025 08:39",
+        "timeOut": "03/30/2025 15:03",
+        "projectHours": 6.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/27/2025 19:31",
+        "timeOut": "02/28/2025 03:31",
+        "projectHours": 8.0,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/13/2025 14:03",
+        "timeOut": "03/14/2025 00:03",
+        "projectHours": 10.0,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/12/2025 16:50",
+        "timeOut": "03/12/2025 20:38",
+        "projectHours": 3.8,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/19/2025 16:19",
+        "timeOut": "03/20/2025 02:49",
+        "projectHours": 10.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "04/01/2025 08:09",
+        "timeOut": "04/01/2025 13:03",
+        "projectHours": 4.9,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/22/2025 20:49",
+        "timeOut": "03/23/2025 04:43",
+        "projectHours": 7.9,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/01/2025 16:37",
+        "timeOut": "01/02/2025 00:01",
+        "projectHours": 7.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/31/2025 10:29",
+        "timeOut": "01/31/2025 13:59",
+        "projectHours": 3.5,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/03/2025 13:07",
+        "timeOut": "01/03/2025 21:31",
+        "projectHours": 8.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/28/2025 17:50",
+        "timeOut": "03/29/2025 02:08",
+        "projectHours": 8.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": true,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/27/2025 23:14",
+        "timeOut": "01/28/2025 03:44",
+        "projectHours": 4.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/22/2025 10:16",
+        "timeOut": "02/22/2025 18:58",
+        "projectHours": 8.7,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      }
+    ]
+  },
+  {
+    "name": "Student 22",
+    "records": [
+      {
+        "timeIn": "01/10/2025 21:28",
+        "timeOut": "01/11/2025 01:46",
+        "projectHours": 4.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/06/2025 22:08",
+        "timeOut": "03/07/2025 04:44",
+        "projectHours": 6.6,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/12/2025 10:30",
+        "timeOut": "01/12/2025 21:18",
+        "projectHours": 10.8,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/29/2025 10:35",
+        "timeOut": "03/29/2025 19:17",
+        "projectHours": 8.7,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/01/2025 03:30",
+        "timeOut": "03/01/2025 11:18",
+        "projectHours": 7.8,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/16/2025 14:21",
+        "timeOut": "02/16/2025 22:39",
+        "projectHours": 8.3,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/27/2025 11:51",
+        "timeOut": "01/27/2025 16:15",
+        "projectHours": 4.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/02/2025 01:21",
+        "timeOut": "01/02/2025 04:57",
+        "projectHours": 3.6,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/09/2025 02:27",
+        "timeOut": "03/09/2025 12:09",
+        "projectHours": 9.7,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": true,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/09/2025 20:50",
+        "timeOut": "02/10/2025 02:20",
+        "projectHours": 5.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/03/2025 03:29",
+        "timeOut": "02/03/2025 07:05",
+        "projectHours": 3.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/19/2025 01:05",
+        "timeOut": "03/19/2025 08:47",
+        "projectHours": 7.7,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/13/2025 05:22",
+        "timeOut": "02/13/2025 11:16",
+        "projectHours": 5.9,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/18/2025 20:36",
+        "timeOut": "01/19/2025 03:54",
+        "projectHours": 7.3,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/03/2025 18:23",
+        "timeOut": "02/04/2025 02:47",
+        "projectHours": 8.4,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/24/2025 06:43",
+        "timeOut": "01/24/2025 13:31",
+        "projectHours": 6.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/09/2025 17:58",
+        "timeOut": "02/10/2025 03:16",
+        "projectHours": 9.3,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/28/2025 02:13",
+        "timeOut": "02/28/2025 11:01",
+        "projectHours": 8.8,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/08/2025 21:17",
+        "timeOut": "01/09/2025 04:23",
+        "projectHours": 7.1,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      }
+    ]
+  },
+  {
+    "name": "Student 23",
+    "records": [
+      {
+        "timeIn": "03/14/2025 08:43",
+        "timeOut": "03/14/2025 12:37",
+        "projectHours": 3.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/11/2025 20:24",
+        "timeOut": "02/12/2025 01:18",
+        "projectHours": 4.9,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/23/2025 22:57",
+        "timeOut": "02/24/2025 07:09",
+        "projectHours": 8.2,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/03/2025 01:11",
+        "timeOut": "01/03/2025 05:41",
+        "projectHours": 4.5,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/25/2025 22:18",
+        "timeOut": "03/26/2025 06:24",
+        "projectHours": 8.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/19/2025 14:25",
+        "timeOut": "02/19/2025 18:31",
+        "projectHours": 4.1,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/21/2025 07:20",
+        "timeOut": "01/21/2025 18:08",
+        "projectHours": 10.8,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/11/2025 03:59",
+        "timeOut": "02/11/2025 09:35",
+        "projectHours": 5.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "01/13/2025 05:25",
+        "timeOut": "01/13/2025 13:19",
+        "projectHours": 7.9,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/26/2025 22:37",
+        "timeOut": "01/27/2025 07:19",
+        "projectHours": 8.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/07/2025 22:42",
+        "timeOut": "01/08/2025 04:42",
+        "projectHours": 6.0,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/11/2025 05:13",
+        "timeOut": "02/11/2025 12:07",
+        "projectHours": 6.9,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/20/2025 08:33",
+        "timeOut": "01/20/2025 18:39",
+        "projectHours": 10.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/09/2025 23:24",
+        "timeOut": "01/10/2025 08:42",
+        "projectHours": 9.3,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/06/2025 12:41",
+        "timeOut": "02/06/2025 19:29",
+        "projectHours": 6.8,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/28/2025 20:16",
+        "timeOut": "01/29/2025 04:04",
+        "projectHours": 7.8,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/09/2025 19:21",
+        "timeOut": "02/10/2025 05:45",
+        "projectHours": 10.4,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/18/2025 01:47",
+        "timeOut": "01/18/2025 08:17",
+        "projectHours": 6.5,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Student 24",
+    "records": [
+      {
+        "timeIn": "03/07/2025 13:11",
+        "timeOut": "03/07/2025 21:17",
+        "projectHours": 8.1,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "01/06/2025 19:03",
+        "timeOut": "01/07/2025 02:15",
+        "projectHours": 7.2,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "01/06/2025 17:29",
+        "timeOut": "01/07/2025 04:17",
+        "projectHours": 10.8,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/01/2025 08:59",
+        "timeOut": "01/01/2025 15:41",
+        "projectHours": 6.7,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/26/2025 08:36",
+        "timeOut": "03/26/2025 16:54",
+        "projectHours": 8.3,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/19/2025 02:26",
+        "timeOut": "03/19/2025 08:38",
+        "projectHours": 6.2,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/25/2025 20:20",
+        "timeOut": "02/26/2025 06:02",
+        "projectHours": 9.7,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/26/2025 23:15",
+        "timeOut": "01/27/2025 04:45",
+        "projectHours": 5.5,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/07/2025 01:57",
+        "timeOut": "03/07/2025 09:39",
+        "projectHours": 7.7,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/27/2025 07:40",
+        "timeOut": "01/27/2025 12:58",
+        "projectHours": 5.3,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/25/2025 12:26",
+        "timeOut": "02/25/2025 18:32",
+        "projectHours": 6.1,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/18/2025 02:11",
+        "timeOut": "02/18/2025 06:23",
+        "projectHours": 4.2,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "02/10/2025 00:56",
+        "timeOut": "02/10/2025 08:56",
+        "projectHours": 8.0,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "name": "Student 25",
+    "records": [
+      {
+        "timeIn": "01/17/2025 20:36",
+        "timeOut": "01/18/2025 01:12",
+        "projectHours": 4.6,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/17/2025 22:31",
+        "timeOut": "02/18/2025 08:55",
+        "projectHours": 10.4,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/09/2025 04:03",
+        "timeOut": "03/09/2025 11:39",
+        "projectHours": 7.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/21/2025 17:42",
+        "timeOut": "02/22/2025 03:54",
+        "projectHours": 10.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "03/24/2025 01:54",
+        "timeOut": "03/24/2025 10:12",
+        "projectHours": 8.3,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/12/2025 12:44",
+        "timeOut": "03/12/2025 17:20",
+        "projectHours": 4.6,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "02/20/2025 13:00",
+        "timeOut": "02/20/2025 22:00",
+        "projectHours": 9.0,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "02/01/2025 06:38",
+        "timeOut": "02/01/2025 16:26",
+        "projectHours": 9.8,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/15/2025 13:57",
+        "timeOut": "02/15/2025 17:33",
+        "projectHours": 3.6,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Worked on autonomous code"
+      },
+      {
+        "timeIn": "01/04/2025 14:42",
+        "timeOut": "01/05/2025 01:24",
+        "projectHours": 10.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "01/16/2025 13:59",
+        "timeOut": "01/17/2025 00:41",
+        "projectHours": 10.7,
+        "signedOutBy": "Mentor B",
+        "excludedFromTotal": true,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "03/12/2025 20:50",
+        "timeOut": "03/13/2025 06:50",
+        "projectHours": 10.0,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Documentation update"
+      },
+      {
+        "timeIn": "03/27/2025 00:58",
+        "timeOut": "03/27/2025 05:58",
+        "projectHours": 5.0,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/04/2025 19:27",
+        "timeOut": "02/05/2025 01:39",
+        "projectHours": 6.2,
+        "signedOutBy": "Automatic - Didn't Sign Out",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "03/06/2025 08:10",
+        "timeOut": "03/06/2025 17:28",
+        "projectHours": 9.3,
+        "signedOutBy": "Mentor A",
+        "excludedFromTotal": false,
+        "notes": "Fixed bugs in control system"
+      },
+      {
+        "timeIn": "04/01/2025 16:42",
+        "timeOut": "04/02/2025 03:30",
+        "projectHours": 10.8,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      },
+      {
+        "timeIn": "02/08/2025 17:27",
+        "timeOut": "02/08/2025 21:39",
+        "projectHours": 4.2,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/20/2025 04:05",
+        "timeOut": "02/20/2025 10:35",
+        "projectHours": 6.5,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": true,
+        "notes": ""
+      },
+      {
+        "timeIn": "02/18/2025 07:11",
+        "timeOut": "02/18/2025 10:53",
+        "projectHours": 3.7,
+        "signedOutBy": "Mentor C",
+        "excludedFromTotal": false,
+        "notes": ""
+      },
+      {
+        "timeIn": "03/24/2025 09:20",
+        "timeOut": "03/24/2025 15:14",
+        "projectHours": 5.9,
+        "signedOutBy": "Andrew Lawrence",
+        "excludedFromTotal": false,
+        "notes": "Mentor feedback given"
+      }
+    ]
+  }
+]

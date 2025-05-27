@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Team Hours Dashboard</title>
+  <style>
+      /* Modal overlay styling */
+    #detailsModal {
+      display: none;
+      position: fixed;
+      top: 0; left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0,0,0,0.5);
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+    }
+    /* Modal content container */
+    #detailsModalContent {
+      background: #fff;
+      padding: 20px;
+      max-width: 200px;
+      width: 90%;
+      border-radius: 8px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.3);
+      position: relative;
+
+      /* New - limit height and scroll if needed */
+      max-height: 80vh;
+      overflow-y: auto;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    #searchBox {
+      display: block;
+      margin: 0 auto 20px auto;
+      padding: 10px;
+      width: 300px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    table {
+      width: 80%;
+      margin: 0 auto;
+      border-collapse: collapse;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      background: white;
+    }
+    th, td {
+      padding: 12px 15px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background-color: #4CAF50;
+      color: white;
+      cursor: pointer;
+      user-select: none;
+      position: relative;
+    }
+    th .sort-arrow {
+      font-size: 12px;
+      margin-left: 5px;
+    }
+    tr:hover {
+      background-color: #f1f1f1;
+    }
+    #footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #777;
+      font-size: 14px;
+    }
+    /* Student details box */
+    #studentDetails {
+      width: 80%;
+      margin: 20px auto;
+      padding: 15px;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      display: none; /* hidden by default */
+      border-radius: 5px;
+    }
+    #studentDetails h2 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Team Hours Dashboard</h1>
+
+  <input type="text" id="searchBox" placeholder="Search students by name" aria-label="Search students by name" />
+
+  <table id="leaderboard" role="grid" aria-label="Leaderboard of team hours">
+    <thead>
+      <tr>
+        <th data-sort="position" tabindex="0" role="columnheader" aria-sort="none">Position <span class="sort-arrow"></span></th>
+        <th data-sort="name" tabindex="0" role="columnheader" aria-sort="none">Name <span class="sort-arrow"></span></th>
+        <th data-sort="hours" tabindex="0" role="columnheader" aria-sort="none">Project Hours <span class="sort-arrow"></span></th>
+        <th data-sort="sessions" tabindex="0" role="columnheader" aria-sort="none"># Lab Sessions <span class="sort-arrow"></span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Leaderboard rows will be injected here -->
+    </tbody>
+  </table>
+
+  <!-- Details panel for clicked student -->
+  <div id="studentDetails" aria-live="polite" aria-atomic="true" role="region">
+    <h2>Student Details</h2>
+    <div id="detailsContent"></div>
+  </div>
+
+  <div id="footer">
+    &copy; 2025 Team Hours Dashboard
+  </div>
+
+  <!-- Modal Overlay -->
+  <div id="detailsModal" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.5); 
+    justify-content:center; align-items:center; z-index:1000;">
+    <div id="detailsModalContent" style="background:#fff; padding:20px; max-width:1000px; width:90%; border-radius:8px; box-shadow:0 0 15px rgba(0,0,0,0.3); position:relative;">
+      <button id="closeModal" aria-label="Close details" style="position:absolute; top:10px; right:10px; background:none; border:none; font-size:20px; cursor:pointer;">&times;</button>
+      <h2>Student Details</h2>
+      <table id="detailsTable" style="width:100%; border-collapse: collapse; margin-top:15px;">
+        <thead>
+          <tr style="background:#4CAF50; color:white;">
+            <th style="padding:8px; border:1px solid #ddd; text-align:left;">Time In</th>
+            <th style="padding:8px; border:1px solid #ddd; text-align:left;">Time Out</th>
+            <th style="padding:8px; border:1px solid #ddd; text-align:left;">Project Hours</th>
+            <th style="padding:8px; border:1px solid #ddd; text-align:left;">Signed Out By</th>
+            <th style="padding:8px; border:1px solid #ddd; text-align:left;">Excluded From Total</th>
+            <th style="padding:8px; border:1px solid #ddd; text-align:left;">Notes</th>
+          </tr>
+        </thead>
+        <tbody id="detailsTableBody"></tbody>
+      </table>
+      
+      </table>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+
+
+</html>
